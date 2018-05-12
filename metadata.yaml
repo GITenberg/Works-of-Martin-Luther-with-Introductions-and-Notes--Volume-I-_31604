@@ -1,0 +1,49 @@
+_repo: Works-of-Martin-Luther-with-Introductions-and-Notes--Volume-I-_31604
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Jacobs, Henry Eyster
+    aliases:
+    - Jacobs, Henry E. (Henry Eyster)
+    - Jacobs, H. (Henry)
+    birthdate: 1844
+    deathdate: 1932
+    gutenberg_agent_id: '37314'
+    url: http://www.gutenberg.org/2009/agents/37314
+  contributor:
+    agent_name: Spaeth, Adolph
+    aliases:
+    - Spaeth, A. (Adolph)
+    - Spath, A. (Adolph)
+    - Späth, A. (Adolph)
+    birthdate: 1839
+    deathdate: 1910
+    gutenberg_agent_id: '35354'
+    url: http://www.gutenberg.org/2009/agents/35354
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: '"Adolph Spaeth ... was ... chairman of the committee that organized
+  the work."--introduction of volume I, signed Henry Eyster Jacobs.'
+gutenberg_issued: '2010-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Theology -- History -- 16th century -- Early works to 1800'
+- !lcsh 'Lutheran Church -- Early works to 1800'
+title: Works of Martin Luther, with Introductions and Notes (Volume I)
+url: http://www.gutenberg.org/ebooks/31604
