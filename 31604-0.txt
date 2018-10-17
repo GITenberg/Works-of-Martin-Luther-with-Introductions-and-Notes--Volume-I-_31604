@@ -14,6 +14,7 @@ Author: Martin Luther
 Translator: C. M. Jacobs
 
 Release Date: March 12, 2010 [EBook #31604]
+Last Updated: December 8, 2017
 
 Language: English
 
@@ -579,7 +580,7 @@ they showed their value as a source of income, and from the
 beginning of the XIV. Century the sale of indulgences became a
 regular business.
 
-About the lame time a new kind of indulgence arose to take the
+About the same time a new kind of indulgence arose to take the
 place of the now somewhat antiquated crusading-indulgence. This
 was the Jubilee-indulgence, and had its origin in the Jubilee of
 1300. By the Bull _Antiquorum Habet Fide_, Boniface VIII. granted
@@ -1517,7 +1518,7 @@ many tribulations, than through the assurance of peace. [Acts
 
 FOOTNOTES
 
-[1] Matt. 4:17. Greek, _μετανοειτε_; English "repent"; German
+[1] Matt. 4:17. Greek, _µeta??e?te_; English "repent"; German
 _Bussetun_. The Latin and German versions may also be rendered, "Do
 penance"; the Greek, on the other hand, can only mean "Repent."
 
@@ -1751,10 +1752,10 @@ teaching of what sins are to be confessed to the priest and how
 they are to be confessed. The subject is discussed fully by
 Luther in his _Discussion of Confession_, below, pp. 81-102.
 
-[3] Gr. _μετά_, Lat., _post_. Eng., "after"; Gr. _νους_, Lat.,
+[3] Gr. _µet?_, Lat., _post_. Eng., "after"; Gr. _????_, Lat.,
 _mens_, Eng., "mind."
 
-[4] The Greek _μετά_ can also be translated by the Latin _trans_,
+[4] The Greek _µet?_ can also be translated by the Latin _trans_,
 which, in compounds, denotes movement from one place, or thing,
 or condition, to another.
 
@@ -12465,13 +12466,13 @@ in this letter, and refers to the approval it found in Meissen in
 his letter to Spalatin of May 17th.
 
 [10] The title is as follows: "Super apostolica ne-de, An
-Videlicet diuino sit iure nec ne, anque pōtifex qui Papa dici
-caeptus est, iure diuino in ea ipea president, nō parū laudanda ex
-sacro Biblior. canone declaratio. sedita p. F. Augustinū Ahldēsem
-Franciscanū, regularis (vt dicit) observuātíae sacredotē, Prouin
-ciae Saxoniae, Sancte crucia, Sa-criq Bibliorū canonis publi-cū
-lectorē i cōuētu Lipsico, ad Reurendū in Chro patrē & dom, dom
-Adolphū pricipē Illust. i Anhaldt ic Episcopē Mersen-burgē sem."
+Videlicet diuino sit iure nec ne, anque potifex qui Papa dici
+caeptus est, iure diuino in ea ipea president, no paru laudanda ex
+sacro Biblior. canone declaratio. sedita p. F. Augustinu Ahldesem
+Franciscanu, regularis (vt dicit) observuatíae sacredote, Prouin
+ciae Saxoniae, Sancte crucia, Sa-criq Biblioru canonis publi-cu
+lectore i couetu Lipsico, ad Reurendu in Chro patre & dom, dom
+Adolphu pricipe Illust. i Anhaldt ic Episcope Mersen-burge sem."
 See Super apostolica sed declario edita per Augustinum
 Alveldensem Bl.; E. S. Cyprian, Nütsliche Urkunden, Leipzig,
 1718, II S. 160 f.
@@ -12479,13 +12480,13 @@ Alveldensem Bl.; E. S. Cyprian, Nütsliche Urkunden, Leipzig,
 [11] Luther's famulus. "Ich werde meinem Bruder Famulus
 anstellen."--To Spalatin already on May 5th.
 
-[12] "Contra Romanistam fratrem Augustinū, Alulden. Fran-ciscanū
-Leipaica Canonis Biblici publicū lictorē eiusdem. F. Joānes
+[12] "Contra Romanistam fratrem Augustinu, Alulden. Fran-ciscanu
+Leipaica Canonis Biblici publicu lictore eiusdem. F. Joanes
 Lonicerus. Augustinianus. VVITTENBERGAE, APVD, COLLEGIVM NOVVM.
 _ANNO. M.D.XX._"
 
 [13] Lonicer's reply had been preceded by one more detailed and
-less impetuous by Bernardī Feldkirch, teacher in the Wittenberg
+less impetuous by Bernardi Feldkirch, teacher in the Wittenberg
 High School. This work is wrongly regarded as Melanchton's. Its
 title is: "CONFUTATIO INEP-ti & impli Libelli F. August. AL-VELD.
 Franciscani Lipsici, pro D. M. Luthero. Vmittenbergae, apud
@@ -12497,10 +12498,10 @@ to write.
 [15] Cf. Luther in the Tractate: "They cling to me like mud to a
 wheel."
 
-[16] "Eyn gar fruchtbar vū nutsbarlich buchbleyn vō dë Babstlichē
-stul:  vmud von sant Peter: vund vō den, die warhafftige
+[16] "Eyn gar fruchtbar vu nutsbarlich buchbleyn vo dë Babstliche
+stul:  vmud von sant Peter: vund vo den, die warhafftige
 schef-lein Christi sein, die Christus vner herr Petro befolen hat
-in sein hute vnd reglrung, gemacht durch bruder Augustinū Alueldt
+in sein hute vnd reglrung, gemacht durch bruder Augustinu Alueldt
 sant Francisci ordens tzu Leiptsk."
 
 See Cyprian, _Urkunden_, II, 161 f.
@@ -15064,7 +15065,7 @@ INDEX
         vows
     Barbara, St.
     Barbara's, St., Day
-    Begāngniss
+    Begangniss
     Beggars
     Bendedictite
     Benevolence
@@ -16717,4 +16718,4 @@ Most people start at our Web site which has the main PG search facility:
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+subscribe to our email newsletter to hear about new eBooks.•
